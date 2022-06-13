@@ -145,5 +145,5 @@
 
 ## :computer: Código
 
-- :blue_book: [Codigo](https://github.com/https://github.com/StickyFingers84/PC7)
+- :blue_book: [Codigo](https://github.com/StickyFingers84/PC7/tree/main/Codigo)
 
