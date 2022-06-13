@@ -124,8 +124,10 @@
 
 ## :black_circle: Assignacion #2
 
-![](Imagen_Codigo/scientific_y_fixed(Codigo).png)
-![](Imagen_Salida/scientific_y_fixed(Salida).png)
+![](Imagen_Codigo/acceso_aleatorio(Asignacion_2)(Codigo).png)
+![](Imagen_Codigo/acceso_aleratorio(Contacto.h)(Codigo).png)
+![](Imagen_Codigo/acceso_aleratorio(Contacto.cpp)(Codigo).png)
+![](Imagen_Salida/acceso_aleatorio(Asignacion_2)(Salida).png)
 
 ---
 
