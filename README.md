@@ -136,8 +136,8 @@
 ![](Imagen_Codigo/acceso_aleatorio(Asignacion_3)(Main)(Codigo).png)
 ![](Imagen_Codigo/acceso_aleratorio(Contacto.h)(Codigo).png)
 ![](Imagen_Codigo/acceso_aleratorio(Contacto.cpp)(Codigo).png)
-![](Imagen_Codigo/acceso_aleratorio(Funciones.h)(Codigo).png)
-![](Imagen_Codigo/acceso_aleratorio(Funciones.cpp)(Codigo).png)
+![](Imagen_Codigo/acceso_aleratorio(Asignacion_3)(Funciones.h)(Codigo).png)
+![](Imagen_Codigo/acceso_aleratorio(Asignacion_3)(Funciones.cpp)(Codigo).png)
 ![](Imagen_Salida/acceso_aleatorio(Asignacion_2)(Salida).png)
 
 ---
