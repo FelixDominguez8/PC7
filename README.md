@@ -10,72 +10,35 @@
 
 ---
 
-## :black_circle: Funciones Virtuales
+## :black_circle: Asignacion #1
 
-![](images/FuncionesVirtuales(codigo).png)
+## :black_circle: ArchivoEntrada
 
-![](images/FuncionesVirtuales(salida).png)
+![](Imagen_Codigo/ArchivoEntrada(Codigo).png)
+![](Imagen_Salida/ArchivoEntrada(Salida).png)
 
----
-
-## :black_circle: Sobrecarga de Operadores 1,2
-
-![](images/SobrecargadeOperadores1,2(codigo).png)
-
-![](images/SobrecargadeOperadores1,2(salida).png)
 
 ---
 
-## :black_circle: Sobrecarga de Operadores 2,2
+## :black_circle: ArchivoSalida
 
-![](images/SobrecargadeOperadores2,2(codigo).png)
 
-![](images/SobrecargadeOperadores2,2(salida).png)
 
----
-
-## :black_circle: Typeid
-
-![](images/Typeid(codigo).png)
-
-![](images/Typeid(salida).png)
 
 ---
 
-## :black_circle: static_cast vs dynamic_cast 1,3
+## :black_circle: Presicion
 
-![](images/static_castvsdynamic_cast1,3(codigo).png)
 
-![](images/static_castvsdynamic_cast1,3(salida).png)
 
----
-
-## :black_circle: static_cast vs dynamic_cast 2,3
-
-![](images/static_castvsdynamic_cast2,3(codigo).png)
-
-![](images/static_castvsdynamic_cast2,3(salida).png)
 
 ---
 
-## :black_circle: static_cast vs dynamic_cast 3,3
-
-![](images/static_castvsdynamic_cast3,3(codigo).png)
-
-![](images/static_castvsdynamic_cast3,3(salida).png)
-
----
-
-## :black_circle: static_cast-type-
-
-![](images/static_cast-type-(variable)(codigo).png)
-
-![](images/static_cast-type-(variable).png)
 
 ---
 
 
 ## :computer: Código
 
-- :blue_book: [Codigo](https://github.com/StickyFingers84/PC6)
+- :blue_book: [Codigo](https://github.com/https://github.com/StickyFingers84/PC7)
 
