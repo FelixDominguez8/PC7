@@ -80,7 +80,7 @@
 
 ## :black_circle: cout-setw
 
-![](Imagen_Codigo/cout-setw(Salida).png)
+![](Imagen_Codigo/cout-setw(Codigo).png)
 ![](Imagen_Salida/cout-setw(Salida).png)
 
 ---
@@ -122,7 +122,7 @@
 
 ---
 
-## :black_circle: Assignacion #2
+## :black_circle: Asignacion #2
 
 ![](Imagen_Codigo/acceso_aleatorio(Asignacion_2)(Codigo).png)
 ![](Imagen_Codigo/acceso_aleratorio(Contacto.h)(Codigo).png)
@@ -131,13 +131,13 @@
 
 ---
 
-## :black_circle: Assignacion #3
+## :black_circle: Asignacion #3
 
 ![](Imagen_Codigo/acceso_aleatorio(Asignacion_3)(Main)(Codigo).png)
 ![](Imagen_Codigo/acceso_aleratorio(Contacto.h)(Codigo).png)
 ![](Imagen_Codigo/acceso_aleratorio(Contacto.cpp)(Codigo).png)
-![](Imagen_Codigo/acceso_aleratorio(Asignacion_3)(Funciones.h)(Codigo).png)
-![](Imagen_Codigo/acceso_aleratorio(Asignacion_3)(Funciones.cpp)(Codigo).png)
+![](Imagen_Codigo/acceso_aleatorio(Asignacion_3)(Funciones.h)(Codigo).png)
+![](Imagen_Codigo/acceso_aleatorio(Asignacion_3)(Funciones.cpp)(Codigo).png)
 ![](Imagen_Salida/acceso_aleatorio(Asignacion_2)(Salida).png)
 
 ---
