@@ -122,6 +122,13 @@
 
 ---
 
+## :black_circle: Assignacion #2
+
+![](Imagen_Codigo/scientific_y_fixed(Codigo).png)
+![](Imagen_Salida/scientific_y_fixed(Salida).png)
+
+---
+
 
 ## :computer: Código
 
