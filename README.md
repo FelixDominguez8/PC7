@@ -131,8 +131,19 @@
 
 ---
 
+## :black_circle: Assignacion #3
+
+![](Imagen_Codigo/acceso_aleatorio(Asignacion_3)(Main)(Codigo).png)
+![](Imagen_Codigo/acceso_aleratorio(Contacto.h)(Codigo).png)
+![](Imagen_Codigo/acceso_aleratorio(Contacto.cpp)(Codigo).png)
+![](Imagen_Codigo/acceso_aleratorio(Funciones.h)(Codigo).png)
+![](Imagen_Codigo/acceso_aleratorio(Funciones.cpp)(Codigo).png)
+![](Imagen_Salida/acceso_aleatorio(Asignacion_2)(Salida).png)
+
+---
+
 
 ## :computer: Código
 
-- :blue_book: [Codigo](https://github.com/https://github.com/StickyFingers84/PC7)
+- :blue_book: [Codigo](https://github.com/https://github.com/StickyFingers84/PC7/Codigo)
 
