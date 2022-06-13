@@ -22,18 +22,103 @@
 
 ## :black_circle: ArchivoSalida
 
-
-
+![](Imagen_Codigo/ArchivoSalida(Codigo).png)
+![](Imagen_Salida/ArchivoSalida(Salida).png)
 
 ---
 
 ## :black_circle: Presicion
 
-
-
+![](Imagen_Codigo/Presicion(Codigo).png)
+![](Imagen_Salida/Presicion(Salida).png)
 
 ---
 
+## :black_circle: Relleno
+
+![](Imagen_Codigo/Relleno(Codigo).png)
+![](Imagen_Salida/Relleno(Salida).png)
+
+---
+
+## :black_circle: Presicion
+
+![](Imagen_Codigo/ArchivoEntrada(Codigo).png)
+![](Imagen_Salida/ArchivoEntrada(Salida).png)
+
+---
+
+## :black_circle: acceso_aleratorio
+
+![](Imagen_Codigo/acceso_aleratorio(Main)(Codigo).png)
+![](Imagen_Codigo/acceso_aleratorio(Contacto.h)(Codigo).png)
+![](Imagen_Codigo/acceso_aleratorio(Contacto.cpp)(Codigo).png)
+![](Imagen_Salida/acceso_aleratorio(Salida).png)
+
+---
+
+## :black_circle: ascii
+
+![](Imagen_Codigo/ascii(Codigo).png)
+![](Imagen_Salida/ascii(Salida).png)
+
+---
+
+## :black_circle: cin-getline
+
+![](Imagen_Codigo/cin-getline(Codigo).png)
+![](Imagen_Salida/cin-getline(Salida).png)
+
+---
+
+## :black_circle: cin_y_cin-get
+
+![](Imagen_Codigo/cin_y_cin-get(Codigo).png)
+![](Imagen_Salida/cin_y_cin-get(Salida).png)
+
+---
+
+## :black_circle: cout-setw
+
+![](Imagen_Codigo/cout-setw(Salida).png)
+![](Imagen_Salida/cout-setw(Salida).png)
+
+---
+
+## :black_circle: cout-width
+
+![](Imagen_Codigo/cout-width(Codigo).png)
+![](Imagen_Salida/cout-width(Salida).png)
+
+---
+
+## :black_circle: dec_oct_hex_y_setbase
+
+![](Imagen_Codigo/dec_oct_hex_y_setbase(Codigo).png)
+![](Imagen_Salida/dec_oct_hex_y_setbase(Salida).png)
+
+---
+
+## :black_circle: eof_get_y_put
+
+![](Imagen_Codigo/eof_get_y_put(Codigo).png)
+![](Imagen_Salida/eof_get_y_put(Salida).png)
+
+---
+
+## :black_circle: read_y_write
+
+![](Imagen_Codigo/read_y_write(Codigo).png)
+![](Imagen_Salida/read_y_write(Salida).png)
+
+---
+
+## :black_circle: scientific_y_fixed
+
+![](Imagen_Codigo/scientific_y_fixed(Codigo).png)
+![](Imagen_Salida/scientific_y_fixed(Salida).png)
+
+---
 
 ---
 
